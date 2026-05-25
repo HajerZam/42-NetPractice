@@ -24,7 +24,7 @@ user@42:~$ bash run.sh
 
 * [YouTube](https://youtu.be/cNwEVYkx2Kk?si=7B6jtvE6_y8qzc1_)
 * [YouTube](https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
-* [YouTube](https://www.youtube.com/watch?v=s_Ntt6eTn94&list=PLCXqoZAc8-tzD5N5oCyIyEcMg_NDs6o7C
+* [YouTube](https://www.youtube.com/watch?v=s_Ntt6eTn94&list=PLCXqoZAc8-tzD5N5oCyIyEcMg_NDs6o7C)
 * [YouTube](https://youtu.be/1fTdar_GL9A?si=Djtsl2r3ku-Au6W1)
 * [YouTube](https://youtu.be/gqxY2M16UGU?si=TsDVcTr13gHo9PLG)
 * [YouTube](https://youtu.be/v-mgssXSzE8?si=jTIiKJAUtEp8WDld)
